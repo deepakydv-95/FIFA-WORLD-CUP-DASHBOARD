@@ -97,15 +97,6 @@ The dataset covers historical FIFA World Cup tournaments during this period.
 
 ---
 
-## 📷 Dashboard Preview
-
-Add your Tableau dashboard screenshot here:
-
-```markdown
-![FIFA World Cup Dashboard](images/fifa-world-cup-dashboard.png)
-```
-
----
 
 ## 📂 Project Structure
 
